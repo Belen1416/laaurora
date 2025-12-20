@@ -1,5 +1,5 @@
 <?php
-$version = '1.0.3';
+$version = '1.0.4';
 $namePage = "";
 $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https://" : "http://";
 $domain = $protocol . $_SERVER['HTTP_HOST'];
@@ -69,5 +69,5 @@ switch ($nameFile) {
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="La Aurora | Casa de cambio en Miraflores">
     <meta name="twitter:description"
-          content="Casa de cambio presencial y delivery en Miraflores. Tasas competitivas y atención cercana en La Aurora.">
+          content="Casa de cambio presencial en Miraflores. Tasas competitivas y atención cercana en La Aurora.">
     <meta name="twitter:image" content="<?= $domain ?>/img/logo.png">

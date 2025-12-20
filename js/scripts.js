@@ -17,7 +17,6 @@ document.querySelectorAll(".nav a").forEach((link) => {
 const ticker = document.getElementById("ticker-text");
 const tickerMessages = [
   "Consulta por WhatsApp el tipo de cambio antes de venir a la oficina.",
-  "Podemos coordinar cambio delivery en zonas seleccionadas de Lima.",
   "Atendemos a personas y empresas con operaciones desde montos pequeños hasta montos altos.",
 ];
 let tickerIndex = 0;
