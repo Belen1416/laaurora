@@ -23,7 +23,7 @@
         <section id="inicio" class="hero">
             <div class="container hero-grid">
                 <div>
-                    <div class="hero-eyebrow">Casa de cambio presencial y delivery</div>
+                    <div class="hero-eyebrow">Casa de cambio presencial</div>
 
                     <h1 class="hero-title">
                         Tu casa de cambio<br />
@@ -39,7 +39,6 @@
                     <div class="hero-tags">
                         <div class="hero-tag">💵 Operaciones seguras</div>
                         <div class="hero-tag">👥 Personas y empresas</div>
-                        <div class="hero-tag">🚗 Cambio delivery</div>
                     </div>
 
                     <div class="hero-actions">
@@ -68,7 +67,7 @@
                                     <small>Compra · Venta</small>
                                 </div>
                             </div>
-                            <div class="hero-rate-value" data-rate="usd">3.33 / 3.37</div>
+                            <div class="hero-rate-value" data-rate="usd">3.355 / 3.377</div>
                         </div>
 
                         <div class="hero-rate">
@@ -79,10 +78,10 @@
                                     <small>Compra · Venta</small>
                                 </div>
                             </div>
-                            <div class="hero-rate-value" data-rate="eur">4.02 / 4.13</div>
+                            <div class="hero-rate-value" data-rate="eur">3.97 / 4.07</div>
                         </div>
 
-                        <div class="hero-rate">
+                        <!-- <div class="hero-rate">
                             <div class="hero-rate-left">
                                 <div class="hero-rate-icon">£</div>
                                 <div class="hero-rate-label">
@@ -91,13 +90,12 @@
                                 </div>
                             </div>
                             <div class="hero-rate-value" data-rate="gbp">4.65 / 4.79</div>
-                        </div>
+                        </div> -->
                     </div>
 
                     <div class="hero-ticker">
                         <!-- <span class="label">Info</span> -->
-                        <span id="ticker-text">Consulta por WhatsApp el tipo de cambio antes de venir a la
-                            oficina.</span>
+                        <span id="ticker-text">Precio puede cambiar en cualquier momento sin previo aviso.</span>
                     </div>
                 </div>
             </div>
@@ -174,7 +172,6 @@
                             <span class="icon">🧾</span>
                             <div>
                                 <b>Procedimientos claros</b><br />
-                                <!-- Información de tipo de cambio, montos y comprobantes desde el inicio de la operación. -->
                             </div>
                         </div>
 
@@ -182,18 +179,9 @@
                             <span class="icon">🤝</span>
                             <div>
                                 <b>Relación de confianza</b><br />
-                                <!-- Atención cordial, sin letras pequeñas y con acompañamiento paso a paso. -->
                             </div>
                         </div>
-
-                        <div class="about-panel-item">
-                            <span class="icon">🚗</span>
-                            <div>
-                                <b>Presencial y delivery</b><br />
-                                <!-- Podrás venir a nuestras oficinas o coordinar cambio delivery según tu necesidad. -->
-                            </div>
-                        </div>
-
+                    
                         <div class="about-panel-footer">
                             Siempre confirmamos la operación contigo antes de mover cualquier monto.
                         </div>
@@ -227,18 +215,6 @@
                     <!-- Servicio 2 -->
                     <div class="service-card">
                         <div class="service-icon">
-                            <img src="servicios/servicio2.svg" alt="Cambio delivery">
-                        </div>
-                        <div class="service-title">Cambio delivery</div>
-                        <div>
-                            Coordinamos el cambio a domicilio u oficina en zonas seleccionadas de Lima, con protocolos
-                            de seguridad.
-                        </div>
-                    </div>
-
-                    <!-- Servicio 3 -->
-                    <div class="service-card">
-                        <div class="service-icon">
                             <img src="servicios/servicio3.svg" alt="Atención a empresas">
                         </div>
                         <div class="service-title">Atención a empresas</div>
@@ -248,7 +224,7 @@
                         </div>
                     </div>
 
-                    <!-- Servicio 4 -->
+                    <!-- Servicio 3 -->
                     <div class="service-card">
                         <div class="service-icon">
                             <img src="servicios/servicio4.svg" alt="Operaciones rápidas">
@@ -275,17 +251,17 @@
                     <div class="gallery-track" id="galleryTrack">
                         <div class="gallery-item">
                             <img src="img/galeria1.jpg" alt="Fachada oficina José Pardo" />
-                            <div class="gallery-label">Oficina José Pardo · Miraflores</div>
+                            <div class="gallery-label">Equipos de atencion</div>
                         </div>
 
                         <div class="gallery-item">
                             <img src="img/galeria2.jpg" alt="Fachada oficina La Aurora" />
-                            <div class="gallery-label">Oficina La Aurora · Miraflores</div>
+                            <div class="gallery-label">Oficina Av José Pardo N°610 - Miraflores</div>
                         </div>
 
                         <div class="gallery-item">
                             <img src="img/galeria3.jpg" alt="Equipo de atención" />
-                            <div class="gallery-label">Equipo de atención · Casa de Cambio La Aurora</div>
+                            <div class="gallery-label">Oficina Cal. Luis Arias Schereiber N°169 - Miraflores</div>
                         </div>
                     </div>
 
@@ -334,7 +310,6 @@
 
                         <div class="office-footer">
                             <span>🔐 Seguridad verificada</span>
-                            <span>🚚 Delivery en zonas cercanas</span>
                         </div>
                     </div>
 
@@ -376,8 +351,7 @@
                 <div>
                     <h2 class="contact-title">¿Listo para cambiar con confianza?</h2>
                     <p class="contact-text">
-                        Escríbenos por WhatsApp o utiliza el formulario para coordinar tu próxima operación de cambio,
-                        ya sea en oficina o mediante servicio delivery.
+                        Escríbenos por WhatsApp o utiliza el formulario para coordinar tu próxima operación de cambio.
                     </p>
 
                     <ul class="contact-list">
