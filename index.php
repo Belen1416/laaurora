@@ -47,56 +47,45 @@
                     </div>
 
                     <div class="hero-note">
-                        El tipo de cambio se confirma siempre por WhatsApp o teléfono antes de cada operación.
+                        Coordina tu operación por WhatsApp o teléfono y te atendemos en cuestión de minutos.
                     </div>
                 </div>
 
-                <!-- Panel de tasas -->
-                <div class="hero-card">
+                <!-- Tarjeta: cómo operar -->
+                <div class="hero-card" data-reveal>
                     <div class="hero-card-header">
-                        <div class="hero-card-title">Monedas frecuentes</div>
-                        <div class="hero-chip">Tasas referenciales</div>
+                        <div class="hero-card-title">Cómo operar con nosotros</div>
+                        <div class="hero-chip">Rápido y seguro</div>
                     </div>
 
-                    <div class="hero-rates-row">
-                        <div class="hero-rate">
-                            <div class="hero-rate-left">
-                                <div class="hero-rate-icon">$</div>
-                                <div class="hero-rate-label">
-                                    <strong>USD / PEN</strong>
-                                    <small>Compra · Venta</small>
-                                </div>
+                    <div class="hero-steps">
+                        <div class="hero-step">
+                            <div class="hero-step-num">1</div>
+                            <div class="hero-step-text">
+                                <strong>Escríbenos por WhatsApp</strong>
+                                <small>Cuéntanos la moneda y el monto que deseas cambiar.</small>
                             </div>
-                            <div class="hero-rate-value" data-rate="usd">3.355 / 3.377</div>
                         </div>
 
-                        <div class="hero-rate">
-                            <div class="hero-rate-left">
-                                <div class="hero-rate-icon">€</div>
-                                <div class="hero-rate-label">
-                                    <strong>EUR / PEN</strong>
-                                    <small>Compra · Venta</small>
-                                </div>
+                        <div class="hero-step">
+                            <div class="hero-step-num">2</div>
+                            <div class="hero-step-text">
+                                <strong>Confirmamos los detalles</strong>
+                                <small>Coordinamos tu operación de forma clara antes de continuar.</small>
                             </div>
-                            <div class="hero-rate-value" data-rate="eur">3.97 / 4.07</div>
                         </div>
 
-                        <!-- <div class="hero-rate">
-                            <div class="hero-rate-left">
-                                <div class="hero-rate-icon">£</div>
-                                <div class="hero-rate-label">
-                                    <strong>GBP / PEN</strong>
-                                    <small>Compra · Venta</small>
-                                </div>
+                        <div class="hero-step">
+                            <div class="hero-step-num">3</div>
+                            <div class="hero-step-text">
+                                <strong>Realiza tu cambio</strong>
+                                <small>Te atendemos en oficina con seguridad y rapidez.</small>
                             </div>
-                            <div class="hero-rate-value" data-rate="gbp">4.65 / 4.79</div>
-                        </div> -->
+                        </div>
                     </div>
 
-                    <div class="hero-ticker">
-                        <!-- <span class="label">Info</span> -->
-                        <span id="ticker-text">Precio puede cambiar en cualquier momento sin previo aviso.</span>
-                    </div>
+                    <a href="https://wa.me/51958984504" target="_blank"
+                        class="btn hero-card-btn">💬 Coordinar por WhatsApp</a>
                 </div>
             </div>
 
@@ -164,7 +153,7 @@
                             <span class="icon">📊</span>
                             <div>
                                 <b>Experiencia comprobada</b><br />
-                                <!-- Más de una década trabajando con clientes que vuelven y nos recomiendan. -->
+                                <span>Más de una década atendiendo a clientes que vuelven y nos recomiendan.</span>
                             </div>
                         </div>
 
@@ -172,6 +161,7 @@
                             <span class="icon">🧾</span>
                             <div>
                                 <b>Procedimientos claros</b><br />
+                                <span>Cada operación se coordina y confirma contigo, paso a paso.</span>
                             </div>
                         </div>
 
@@ -179,6 +169,7 @@
                             <span class="icon">🤝</span>
                             <div>
                                 <b>Relación de confianza</b><br />
+                                <span>Atención cercana y personalizada para personas y empresas.</span>
                             </div>
                         </div>
                     

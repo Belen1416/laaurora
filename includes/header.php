@@ -1,5 +1,5 @@
 <?php
-$version = '1.0.4';
+$version = '1.0.8';
 $namePage = "";
 $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https://" : "http://";
 $domain = $protocol . $_SERVER['HTTP_HOST'];

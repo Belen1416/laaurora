@@ -8,7 +8,7 @@
 
             <nav class="nav">
                 <a href="#inicio">Inicio</a>
-                <a href="#quienes">Quiénes somos</a>
+                <a href="#quienes">Nosotros</a>
                 <a href="#servicios">Servicios</a>
                 <a href="#galeria">Galería</a>
                 <a href="#oficinas">Oficinas</a>
@@ -16,7 +16,7 @@
             </nav>
 
             <div class="header-cta">
-                <a href="tel:+5110000000" class="btn-outline">📞 Llamar</a>
+                <a href="tel:+5114478117" class="btn-outline">📞 Llamar</a>
                 <a href="https://wa.me/51958984504" target="_blank" class="btn">WhatsApp</a>
             </div>
 
